@@ -29,3 +29,4 @@ dependencies:
   - defaults::scipy
   - pip:
     - rio-toa
+    - nc-time-axis
